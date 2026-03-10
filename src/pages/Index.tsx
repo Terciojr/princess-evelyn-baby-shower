@@ -233,7 +233,7 @@ const Index = () => {
             </div>
             <div className="p-4 bg-white/50 rounded-xl border border-dashed border-baby-pink/30">
               <p className="font-medium text-baby-pink">Preferências (NB)</p>
-              <p className="text-sm font-bold">Fraldas Huggies e Pampers (Tamanho 2 - 5kg)</p>
+              <p className="text-sm font-bold">Fraldas Huggies e Pampers (Tamanho 3 - 6kg)</p>
             </div>
           </div>
         </motion.div>
